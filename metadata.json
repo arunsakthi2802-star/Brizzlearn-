@@ -1,0 +1,8 @@
+{
+  "name": "Brizzlearn - AI Career GPS",
+  "description": "Integrated learning, real-time news, AI-powered job matching, and technical simulations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
